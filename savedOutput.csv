@@ -1,0 +1,9 @@
+Day,Base Average Wait,Base # Cars With Long Wait,Upgraded Average Wait,Upgraded # Cars With Long Wait
+1,27.44,154,3.82,9
+2,11.84,65,2.59,2
+3,14.86,94,2.01,0
+4,11.71,81,3.07,1
+5,26.96,146,1.87,0
+6,6.24,38,2.79,0
+7,12.49,66,2.99,11
+Average,15.93,92.00,2.73,3.29
