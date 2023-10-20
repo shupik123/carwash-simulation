@@ -1,3 +1,6 @@
+### Project Specific ###
+output.csv
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
